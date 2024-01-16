@@ -2,7 +2,7 @@
 
 I am Malvika.
 
-I am combining open source/science, community collaboration and inclusivity to transform the culture of research, data science and AI.
+I'm on a mission to transform research, data science, and AI through open source/science, community building, and inclusivity.
 
 More about me:
 

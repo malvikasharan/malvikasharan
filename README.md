@@ -22,6 +22,6 @@ Featured articles:
 How to reach me:
 
 * 📫 @malvikasharan on X/Twitter or malvikasharan [at] gmail.com
-* 🌏 Website: https://malvikasharan.github.io/🚧
+* 🌏 Website: https://malvikasharan.github.io
 
 *I am reusing [Abby's README](https://github.com/abbycabs/abbycabs).* 🔥

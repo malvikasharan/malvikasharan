@@ -15,13 +15,13 @@ More about me:
 
 Featured articles:
 
-🎯 [10 arguments against Open Science that you can win](https://malvikasharan.github.io/blogs/open-science-argument/)
-💌 [A Friendly Letter to Community Managers](https://malvikasharan.github.io/blogs/letter-to-community-managers/)
-⭐ [Code of Conduct Facilitators - Everything you need to know](https://malvikasharan.github.io/blogs/coc-facilitators/)
+* 🎯 [10 arguments against Open Science that you can win](https://malvikasharan.github.io/blogs/open-science-argument/)
+* 💌 [A Friendly Letter to Community Managers](https://malvikasharan.github.io/blogs/letter-to-community-managers/)
+* ⭐ [Code of Conduct Facilitators - Everything you need to know](https://malvikasharan.github.io/blogs/coc-facilitators/)
 
 How to reach me:
 
-    📫 @malvikasharan on X/Twitter or malvikasharan [at] gmail.com
-    🌏 Website: https://malvikasharan.github.io/🚧
+* 📫 @malvikasharan on X/Twitter or malvikasharan [at] gmail.com
+* 🌏 Website: https://malvikasharan.github.io/🚧
 
 *I am reusing [Abby's README](https://github.com/abbycabs/abbycabs).* 🔥

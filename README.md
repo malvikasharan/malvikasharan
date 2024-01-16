@@ -11,7 +11,7 @@ More about me:
 * 💪 Co-leading The Turing Way and leading a brilliant team of Research Community Managers at the Alan Turing Institute, and integrating openness in data science and AI projects
 * 📣 Thought leader in open science and community building as a keynoter and speaker at major international events such as Open Science Fair, Funders Forum, Maintainers Summit, SciPy, AI-UK
 * 🎉 Featured in 100 Brilliant Women in AI Ethics™ 2024 list, JISC Community Champion 2022, CogX Tech Community Leader 2020, Software Sustainability Institute Fellow 
-* 👥 Current and past member of a number of advisory committees and boards including NASA Transform to Open Science, The Carpentries, Code for Science and Society, Open Bioinformatics Foundation, Society of RSE and MetaDocencia
+* 👥 Current and past member of several advisory boards and committees including NASA Transform to Open Science, The Carpentries, Code for Science and Society, Open Bioinformatics Foundation, Society of RSE and MetaDocencia
 
 Featured articles:
 

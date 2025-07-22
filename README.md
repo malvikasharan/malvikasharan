@@ -13,9 +13,6 @@ More about me:
 * 🎉 Featured in [100 Brilliant Women in AI Ethics™ 2024 list](https://womeninaiethics.org/the-list/of-2024/), [JISC Community Champion 2022](https://www.jisc.ac.uk/events/meet-the-community-champions-of-2022), [CogX Tech Community Leader 2020](https://twitter.com/CogX_Festival/status/1270768314789384193), [Software Sustainability Institute Fellows](https://www.software.ac.uk/fellowship-programme/malvika-sharan)
 * 👥 Current and past member of several advisory boards and committees, including NASA Transform to Open Science, The Carpentries, Code for Science and Society, Open Bioinformatics Foundation, Society of RSE and MetaDocencia
 
-Learn more about me and connect:
-
-* 📫 @[malvikasharan](https://twitter.com/malvikasharan) on X/Twitter or malvikasharan [at] gmail.com
-* 🌏 Website: [malvikasharan.github.io](https://malvikasharan.github.io)
+Learn more about me and connect via my 🌏 Website: [malvikasharan.github.io](https://malvikasharan.github.io)
 
 *I am reusing [Abby's README](https://github.com/abbycabs/abbycabs).* 🔥

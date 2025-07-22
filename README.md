@@ -6,7 +6,7 @@ I'm on a mission to transform research, data science, and AI through open source
 
 More about me:
 
-* 🚧 Co-founded [OLS (Open Life Science)](https://openlifesci.org/) in 2019, which is still going strong with 9 cohorts and 700 international open practitioners
+* 🚧 Co-founded [OLS (Open Life Science)](https://openlifesci.org/) in 2019, which has delivered 11 cohorts of the Open Seeds training and mentoring programme, engaging 700 international open practitioners
 * 🛠 As a recognised expert, provided consultations, training and fundamental resources for 100+ open science and open source initiatives and their communities
 * 💪 Co-led _[The Turing Way](https://the-turing-way.netlify.app/index.html)_ and established the first Research Community Management (RCM) team at the Alan Turing Institute - currently serves in _The Turing Way_ Steering Committee and is a founding director of [RCM Cooperative](https://www.rcmcooperative.com/)
 * 📣 Thought leader in open science and community building as a keynoter and speaker at major international events such as CarpentryConnect, Open Science Fair, Funders Forum, Maintainers Summit, SciPy, OpenCon, and AI-UK

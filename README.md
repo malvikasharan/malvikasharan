@@ -6,9 +6,9 @@ I'm on a mission to transform research, data science, and AI through open source
 
 More about me:
 
-* 🚧 Co-founded [OLS (Open Life Science)](https://openlifesci.org/) in 2019, which has delivered 11 cohorts of the Open Seeds training and mentoring programme, engaging 700 international open practitioners
 * 🛠 As a recognised expert, provided consultations, training and fundamental resources for 100+ open science and open source initiatives and their communities
-* 💪 Co-led _[The Turing Way](https://the-turing-way.netlify.app/index.html)_ and established the first Research Community Management (RCM) team at the Alan Turing Institute - currently serve in _The Turing Way_ Steering Committee and is a founding director of [RCM Cooperative](https://www.rcmcooperative.com/)
+* 💪 Co-led _[The Turing Way](https://the-turing-way.netlify.app/index.html)_ and established the first Research Community Management (RCM) team at the Alan Turing Institute - currently serve in _The Turing Way_ Steering Committee and is a founding member of [RCM Cooperative](https://www.rcmcooperative.com/)
+* 🚧 Co-founded [OLS (Open Life Science)](https://openlifesci.org/) in 2019, which has delivered 11 cohorts of the Open Seeds training and mentoring programme, engaging 700 international open practitioners
 * 📣 As a thought leader in open science and community building, delivered keynotes and talks at major international events such as CarpentryConnect, Open Science Fair, Funders Forum, Maintainers Summit, SciPy, OpenCon, and AI-UK
 * 🎉 Featured in [100 Brilliant Women in AI Ethics™ 2024 list](https://womeninaiethics.org/the-list/of-2024/), 
 [2025 Top 100 Future Leaders](https://empower.involverolemodels.org/poll/2025-top-100-future-leaders/) by Empower, [JISC Community Champion 2022](https://www.jisc.ac.uk/events/meet-the-community-champions-of-2022), [CogX Tech Community Leader 2020](https://twitter.com/CogX_Festival/status/1270768314789384193), [Software Sustainability Institute Fellows](https://www.software.ac.uk/fellowship-programme/malvika-sharan)
